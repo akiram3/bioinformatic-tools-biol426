@@ -23,7 +23,7 @@ In addition, you can also load a downloaded .pdb/.mmCIF file into ChimeraX.
 
 Both methods should result in a protein structure appearing on your screen similar to the image below.
 
-![load structures into ChimeraX](https://github.com/akiram3/bioinformatic-tools-biol426/blob/images/chimerax_load.png)
+![load structures into ChimeraX](images/chimerax_load.png)
 
 ## III. Compare conserved residues and polymorphisms between multiple protein sequences
 One strength of ChimeraX is its utility for analyzing protein sequence alignments. Here, I am aligning the sequence of 1ikq and *Aeronomas* Exotoxin A (PDB ID: 6Z5H), which I found from a UniProt BLAST search of the 1IKQ sequence.
@@ -34,12 +34,12 @@ After obtaining protein structures and sequences, first load the structures as d
 
 After loading in sequences, they should automatically be assigned to the correct structure and the alignment should open in the right sidebar. For ease of viewing, the alignments can be visualized in a new window by clicking the gray bar at the top of the alignment and dragging it away. 
 
-![show sequence viewer](https://github.com/akiram3/bioinformatic-tools-biol426/blob/images/chimerax_seqview.png)
+![show sequence viewer](images/chimerax_seqview.png)
 
 After generating these alignments, you can select conserved residues between the two sequences. It is most straightforward to do this command graphically.
 - Graphically: Right click on the sequence viewer > "Structure" > "Select by Column Identity" > "100%"
 
-![select conserved residues](https://github.com/akiram3/bioinformatic-tools-biol426/blob/images/chimerax_conserved.png)
+![select conserved residues](images/chimerax_conserved.png)
 
 ## IV. Color specific residues and domains
 When visualizing protein structures, it can be helpful to adjust the color of the whole protein or specific parts. In this example, I will be changing the color of conserved residues between 1IKQ and 6Z5H from the default tan color to to red as selected in the previous section. 
