@@ -28,7 +28,7 @@ Both methods should result in a protein structure appearing on your screen simil
 ## III. Compare conserved residues and polymorphisms between multiple protein sequences
 One strength of ChimeraX is its utility for analyzing protein sequence alignments. Here, I am aligning the sequence of 1ikq and *Aeronomas* Exotoxin A (PDB ID: 6Z5H), which I found from a UniProt BLAST search of the 1IKQ sequence.
 
-After obtaining protein structures and sequences, first load the structures as described in part II. Then, load the aligned sequences in FASTA format into ChimeraX as well (I took the FASTA for each structure from the PDB website and aligned them with AliView).
+After obtaining protein structures and sequences, first load the structures as described in part II. Then, load the aligned sequences in FASTA format into ChimeraX as well (I took the FASTA for each structure from the PDB website and aligned them with [AliView](https://github.com/akiram3/bioinformatic-tools-biol426/blob/main/aliview.md)).
 - Command line: `open /path/to/alignment.fasta`
 - Graphically: "File" > "Open" > [path to alignment] > "Open"
 
