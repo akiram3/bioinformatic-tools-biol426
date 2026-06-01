@@ -1,2 +1,2 @@
 # bioinformatic-tools-biol426
-As an ad hoc project for BIOL 426: Comparative Immunology, I have created a github repository with instructions for using helpful bioinformatic tools.
+As an ad hoc project for BIOL 426: Comparative Immunology, I have created a github repository with instructions for using four helpful bioinformatic tools: [AliView](https://github.com/akiram3/bioinformatic-tools-biol426/blob/main/aliview.md), the [AlphaFold Protein Structure Database](https://github.com/akiram3/bioinformatic-tools-biol426/blob/main/alphafold-protein-structure-database.md), [ChimeraX](https://github.com/akiram3/bioinformatic-tools-biol426/blob/main/chimerax.md), and [PyMOL](https://github.com/akiram3/bioinformatic-tools-biol426/blob/main/pymol.md). 
